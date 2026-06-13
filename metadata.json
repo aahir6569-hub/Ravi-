@@ -1,0 +1,6 @@
+{
+  "name": "Luxury Marketplace",
+  "description": "High-end interior design and premium raw material selling platform with interactive feed posting, location-based quick order processing, active stock filters, and one-tap voice interaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
